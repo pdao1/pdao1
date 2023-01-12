@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<!--
-**pdao1/pdao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack dev but more passionate about working on front end projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on too man
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 
--->
+ 🌱 I’m currently learning Svelte & [socket.io](https://socket.io/)
+ 
+ Latest obsessions has been: Firebase 😻 (most specifically, Firestore and Real-time database) and Three.js
+ 
+ 
+Check out my webpage at [phungdao.com](https://phungdao.com)
