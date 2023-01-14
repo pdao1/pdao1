@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fullstack dev but more passionate about working on front end projects.
+Late bloomer to developing game, 2.5 years professional front-end development experience.
 
  🌱 I’m currently learning Svelte & [socket.io](https://socket.io/)
  
