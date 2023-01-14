@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Phung Dao
 
-Late bloomer to software development (i wish i has studied computer science in college instead!)
+Late bloomer to software development (i wish i had studied computer science in college instead!)
 
 2.5 years professional front-end development experience.
 
