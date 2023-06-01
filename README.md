@@ -1,10 +1,10 @@
 ### Hi there 👋 my name is Phung Dao
 
-Late bloomer to software development (i wish i had studied computer science in college instead!)
+Late bloomer to software development
 
-2.5 years professional front-end development experience.
+3 years professional front-end development experience.
 
- 🌱 I’m currently working as an Analyst at a bank, mainly focusing on building internal apps, and learning ReTool :)
+ 🌱 I’m currently working as a reporting analyst 
  
  Latest obsessions has been: Firebase 😻 (specifically: Firestore and Real-time database) ReTool and Three.js
  
