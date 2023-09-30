@@ -2,11 +2,13 @@
 
 Late bloomer to software development
 
-3 years professional front-end development experience.
+4 years professional front-end development experience.
+1 year professional back-end experience
+1 year professional experience building internal applications
 
- 🌱 I’m currently working as a reporting analyst 
+ 🌱 I’m currently working as a reporting analyst & internal application developer
  
- Latest obsessions has been: Firebase 😻 (specifically: Firestore and Real-time database) ReTool and Three.js
+ Latest obsessions has been: Firebase 😻 MongoDB, Express, Vite, Three.js
  
 Check out my portfolio at [phungdao.com](https://phungdao.com)
 
