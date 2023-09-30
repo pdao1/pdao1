@@ -2,9 +2,11 @@
 
 Late bloomer to software development
 
-4 years professional front-end development experience.
-1 year professional back-end experience
-1 year professional experience building internal applications
+*4 years professional front-end development experience.*
+
+*1 year professional back-end experience*
+
+*1 year professional experience building internal applications*
 
  🌱 I’m currently working as a reporting analyst & internal application developer
  
